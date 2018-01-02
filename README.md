@@ -8,20 +8,18 @@ an obvious pattern that could potentially be used for future experiments.
 ## GAME OVERVIEW: 
 The game itself spawns two enemy types, a runner and a warrior, whose goal is to get behind the player and destroy a wall the player is
 guarding. If the wall is destroyed, it's game over. If the player is killed, it's game over.  The runner is faster than the warrior and only inflicts one unit of damage on either the player or the wall. The Warrior is slower and inflicts two units of damage. There is a scoreboard that keeps track of how many goblins the player kills. Once the enemy gets behind the player they inflict their damage and disappear. The player moves on a fixed arc and must move right or left to intercept the enemy and kill them.  
-## Installation:
+## INSTALLATION:
+If you download this repository the game requires no installation. Simply go into the GoblinAssaultVersions folder, choose which version you wish to play (Easy mode or hard mode), go in that respective folder and double click on either GoblinAssaultE (if you go into the easy folder) or GoblinAssaultH (if you go into the hard folder).  From there a Game configuration screen will come up. You can choose screen resolution (its recommended you play at the default resolution), whether you want the game in full screen or windowed, and graphics quality.  You can also choose which monitor, if you have multiple, you want to play from. Then hit play and enjoy. 
 
-
-## Controls: 
+## CONTROLS: 
 The space bar is used to swing the club.
 Movement is done using the arrow keys, left arrow moving left, right arrow moving right. 
+ 
+## DEVELOPMENT INFORMATION:
+This game was created in a one and a half month period with some help from a classmate and friend, Eloy Perez.  The game difficulty
+settings were packaged separately, rather than make it an option in a game menu, so the participants in the resulting data collection
+exercise wouldn't know which difficulty they were playing.
 
-There are two versions of the game that were configured. One for Hard mode and one for easy mode. They were configured separately for 
-the purposes of the study attached to the game.  By configuring them separately we could keep the subject from seeing which version they
-were playing before they began.  
-
-CREATION INFORMATION:
-This game was created in a one and a half month period using Unity and coded in C#. Eloy Perez aided me with creating the difficulty 
-settings as specified and with the enemy and player movement. 
 Game Design, Asset creation, player and enemy attack code, score code, health code and data transferrance for Empatica code, adding sound effects, music, coding the animation, debugging: 
 Robert Jackson
 
