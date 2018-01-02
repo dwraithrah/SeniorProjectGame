@@ -11,6 +11,8 @@ guarding. If the wall is destroyed, it's game over. If the player is killed, it'
 ## INSTALLATION:
 If you download this repository the game requires no installation. Simply go into the GoblinAssaultVersions folder, choose which version you wish to play (Easy mode or hard mode), go in that respective folder and double click on either GoblinAssaultE (if you go into the easy folder) or GoblinAssaultH (if you go into the hard folder).  From there a Game configuration screen will come up. You can choose screen resolution (its recommended you play at the default resolution), whether you want the game in full screen or windowed, and graphics quality.  You can also choose which monitor, if you have multiple, you want to play from. Then hit play and enjoy. 
 
+If you wish to view the project in Unity, the GoblinGame folder holds everything you need.  Be advised, the models and animations were ported directly over from Blender. As such, Eloy and I found that to view the models and animations in Unity you have to have Blender installed on your computer.  
+
 ## CONTROLS: 
 The space bar is used to swing the club.
 Movement is done using the arrow keys, left arrow moving left, right arrow moving right. 
@@ -20,6 +22,7 @@ This game was created in a one and a half month period with some help from a cla
 settings were packaged separately, rather than make it an option in a game menu, so the participants in the resulting data collection
 exercise wouldn't know which difficulty they were playing.
 
+# Credits:
 Game Design, Asset creation, player and enemy attack code, score code, health code and data transferrance for Empatica code, adding sound effects, music, coding the animation, debugging: 
 Robert Jackson
 
@@ -28,13 +31,9 @@ Enemy and player movement and Difficulty Settings: Eloy Perez
 Goblin models and animations were created using blender. Background was created in Unity. 
 
 The music and sound effects were found on sound-effects .org and created using effects uploaded with open licenses.
-
-The GoblinGame folder holds all the information needed to open the game in unity and view all of the assets and scripts. 
-Note: When working on the game with Eloy we found that he could not see the models or animations unless he had Blender installed on his computer.  Blender is a free to install software.  The C# scripts should be viewable in Microsoft Visual Studio. 
-
-CREDITS: 
+ 
 The music:
-URL: http://freemusicarchive.org/music/Visager/Songs_From_An_Unmade_World/Visager_-_Songs_from_an_Unmade_World_-_06_Pyramid_Level
-Comments: http://freemusicarchive.org/
+URL: [http://freemusicarchive.org/music/Visager/Songs_From_An_Unmade_World/Visager_-_Songs_from_an_Unmade_World_-_06_Pyramid_Level]
+Comments: [http://freemusicarchive.org/]
 Curator: ccCommunity
 Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/
