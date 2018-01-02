@@ -36,5 +36,7 @@ The music:
 URL: http://freemusicarchive.org/music/Visager/Songs_From_An_Unmade_World/Visager_-_Songs_from_an_Unmade_World_-_06_Pyramid_Level
 
 Comments: http://freemusicarchive.org/
+
 Curator: ccCommunity
+
 Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/
