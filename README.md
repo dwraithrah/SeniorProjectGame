@@ -3,7 +3,7 @@
 This game was created during my final semester at the University of Houston-Downtown. It was created to work in conjunction with a data
 gathering experiment. The player would wear an Empatica wrist device (similar to a watch) that gathered various bio-rhythmic readings from 
 the player.  The game was designed to either be really easy or get frustratingly hard so I could take the readings and see if there was 
-an obvious pattern that could potentially be used for future experiments. 
+an obvious pattern that could potentially be used for future experiments. Uploaded with the game files is the research paper submitted with my presentation at the end of my capstone course. 
 
 ## GAME OVERVIEW: 
 The game itself spawns two enemy types, a runner and a warrior, whose goal is to get behind the player and destroy a wall the player is
